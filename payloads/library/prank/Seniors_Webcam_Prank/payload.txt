@@ -87,7 +87,7 @@ DELAY 5000
 
 GUI r
 DELAY 100
-STRING cmd /c start https://www.youtube.com/watch?v=HwdPJwIaVfg
+STRING cmd /c start https://www.youtube.com/watch?v=7Pa_P_8h6Vk
 DELAY 200
 ENTER
 DELAY 500
